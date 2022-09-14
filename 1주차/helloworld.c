@@ -1,4 +1,5 @@
 #include <stdio.h>
+//가위바위보 만들기
 
 int main(void)
 {
@@ -9,7 +10,7 @@ printf("1, 2, 3 중 하나를 쓰세요 : \n");
 scanf("%d", &num1);
 if(num1 == 1)
 {
-  printf("이겼습니다\n");
+  printf("이겼습니다\n");d
 }
 else if(num1 == 2)
 {
